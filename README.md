@@ -19,7 +19,7 @@ Betriebssystem:
 noobs
 
 Hardware:
-RPi 3B + Ladekabel
+RPi 3B + Ladekabel + SD-Karte
 GrovePi+
   Distanzsensor (Ultrasonic)
   LED (drei wahlweise rot, grün und blau)
@@ -28,12 +28,11 @@ GrovePi+
   Rotationssensor 2
   Lichtsensor 
   mind. 8 Sensorkabel
-Display (genutzt 800x600pix; getestet auf 17 Zoll Display) + Ladekabel
+Display (garantierte Bildauflösung 800x600pix; getestet auf 17 Zoll Display) + Ladekabel
 HDMI-Kabel von RPi zu Display 
 3.5-Klinken-Audiokabel
 Numpad
 Maus (falls benötigt zum starten des Scriptes; keine Verwendung InGame)
-
 
 ```
 
