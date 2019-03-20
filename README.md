@@ -63,7 +63,7 @@ Es erfolgte lediglich eine Unterteilung in RPi Version mit und eine PC Version o
 
 ## Lizenz
 
-Dieses Projekt ist unlizensiert [LICENSE.md](LICENSE.md).
+Dieses Projekt ist unlizensiert [LICENSE.md](LICENSE).
 
 ## Danksagungen
 
