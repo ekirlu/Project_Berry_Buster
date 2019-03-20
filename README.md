@@ -10,8 +10,8 @@ Im folgenden werder alle wichtigen Notwendigkeiten und Bedingungen erläutert.
 
 ## Notwendigkeiten
 
-Notwendig ist ein Raspberry Pi (geschrieben für Version 3B) mit installiertem Noobs, ein GrovePi und benötigte Hardware, welche in Aufbau.png dargestellt wird inklusive Angaben für Sensoranschlüsse,
-Geschrieben wurde in PyCharm und Geany. Gestartet werden kann der Berry Buster wie jedes andere Script (RPi Tastenkombi: F5). Darauf hin wird der Screen komplett ausgefüllt. Wie die Spielsteuerung/abbruch funktionieren wird im Tutorial ingame und auf Tutorial.png erläutert.
+Notwendig ist ein Raspberry Pi (geschrieben für Version 3B) mit installiertem Noobs, ein GrovePi und benötigte Hardware, welche in Hardware.png dargestellt wird inklusive Angaben für Sensoranschlüsse.
+Geschrieben wurde in PyCharm und Geany. Gestartet werden kann der Berry Buster wie jedes andere Script. Daraufhin wird der Screen komplett ausgefüllt. Wie die Spielsteuerung/abbruch funktionieren wird im Tutorial ingame und in der PDF Poster_aufbau.pdf erläutert.
 Zu beachten 
 
 ```
@@ -21,7 +21,7 @@ noobs
 ## Installing
 
 Wie bereits erwähnt sollten Noobs und beispielsweise Geany als Interpreteur bereits installiert sein.
-Wichtig ist zudem, dass mit Python 3.0+ gearbeitet wird, dieses sollto sowohl installiert als auch im Interpreteur ausgewählt sein.
+Wichtig ist zudem, dass mit Python 3.0+ gearbeitet wird, dieses sollte sowohl installiert als auch im Interpreteur ausgewählt sein.
 ```
 sudo apt-get install python3
 ```
@@ -37,15 +37,9 @@ from random import randint
 import csv
 import grovepi as *
 ```
-
 Teils werden diese vorinstalliert vorhanden sein, ansonsten kann mittels Terminal eine Installation vorgenommen werden.
 
-```
-
-
-```
-
-## Gemacht mit
+## Software- und Quellenlinks
 
 * [Noobs](https://www.raspberrypi.org/downloads/noobs/) - Betriebssystem RPi 3B
 * [Geany](https://www.geany.org/download) - Interpreter Python
@@ -60,7 +54,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 ## Versionierung
 
 Versioning hatte keine Priorität, da es sich um ein kleiner Projekt handelt.
-Es erfolgte lediglich eine Unterteilung in RPi Version mit und eine PC Version ohne Sensoren.
+Es erfolgte lediglich eine Unterteilung in RPi Version mit und eine PC Version ohne Sensoren. Hierbei handelt es sich dabei um die RPi-Version. 
 
 ## Autoren
 
