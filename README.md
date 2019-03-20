@@ -12,10 +12,29 @@ Im folgenden werder alle wichtigen Notwendigkeiten und Bedingungen erläutert.
 
 Notwendig ist ein Raspberry Pi (geschrieben für Version 3B) mit installiertem Noobs, ein GrovePi und benötigte Hardware, welche in Hardware.png dargestellt wird inklusive Angaben für Sensoranschlüsse.
 Geschrieben wurde in PyCharm und Geany. Gestartet werden kann der Berry Buster wie jedes andere Script. Daraufhin wird der Screen komplett ausgefüllt. Wie die Spielsteuerung/abbruch funktionieren wird im Tutorial ingame und in der PDF Poster_aufbau.pdf erläutert.
-Zu beachten 
+Zu beachten ist zudem, dass die Steuerung verändert ausgelegt ist, da ein Numpad verwendet wurde, es allerdings der Usability dienlicher ist, wenn mit dem Befehl ähnelnden Tasten gearbeitet wird. Daher wurden genutzte Taste überklebt. In der angehängten Dokumentation des Projektes befinden sich Bilder, wodurch dies imitierbar ist. Zudem können die Tasten im Code einfach ersetzt werden.
 
 ```
+Betriebssystem:
 noobs
+
+Hardware:
+RPi 3B + Ladekabel
+GrovePi+
+  Distanzsensor (Ultrasonic)
+  LED (drei wahlweise rot, grün und blau)
+  LED-String
+  Rotationssensor 1
+  Rotationssensor 2
+  Lichtsensor 
+  mind. 8 Sensorkabel
+Display (genutzt 800x600pix; getestet auf 17 Zoll Display) + Ladekabel
+HDMI-Kabel von RPi zu Display 
+3.5-Klinken-Audiokabel
+Numpad
+Maus (falls benötigt zum starten des Scriptes; keine Verwendung InGame)
+
+
 ```
 
 ## Installing
@@ -47,9 +66,6 @@ Teils werden diese vorinstalliert vorhanden sein, ansonsten kann mittels Termina
 * [Credits - code](https://stackoverflow.com/questions/36164524/python-pygame-create-end-credits-like-the-ones-at-the-end-of-a-movie?rq=1) - Code für Credits - abgeleitet von stackoverflow von sloth
 * [Mathematische Grundlage für Abprall-Berechnung](https://www.youtube.com/watch?v=uuww9w2W-c0) - Berechnungsgrundlage
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versionierung
 
