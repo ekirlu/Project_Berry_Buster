@@ -10,7 +10,7 @@ Im folgenden werder alle wichtigen Notwendigkeiten und Bedingungen erläutert.
 
 ## Notwendigkeiten
 
-Notwendig ist ein Raspberry Pi (geschrieben für Version 3B) mit installiertem Noobs, GrovePi und benötigte Hardware, welche in Aufbau.png dargestellt wird inklusive Angaben für Sensoranschlüsse,
+Notwendig ist ein Raspberry Pi (geschrieben für Version 3B) mit installiertem Noobs, ein GrovePi und benötigte Hardware, welche in Aufbau.png dargestellt wird inklusive Angaben für Sensoranschlüsse,
 Geschrieben wurde in PyCharm und Geany. Gestartet werden kann der Berry Buster wie jedes andere Script (RPi Tastenkombi: F5). Darauf hin wird der Screen komplett ausgefüllt. Wie die Spielsteuerung/abbruch funktionieren wird im Tutorial ingame und auf Tutorial.png erläutert.
 Zu beachten 
 
