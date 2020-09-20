@@ -68,7 +68,7 @@ Teils werden diese vorinstalliert vorhanden sein, ansonsten kann mittels Termina
 
 ## Versionierung
 
-Versioning hatte keine Priorität, da es sich um ein kleiner Projekt handelt.
+Versioning hatte keine Priorität, da es sich um ein kleines Projekt handelt.
 Es erfolgte lediglich eine Unterteilung in RPi Version mit und eine PC Version ohne Sensoren. Hierbei handelt es sich dabei um die RPi-Version. 
 
 ## Autoren
