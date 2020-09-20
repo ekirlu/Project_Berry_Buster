@@ -6,7 +6,7 @@ output: html_document
 
 Berry Buster ist eine Revisited Version des Spieles Brick Breaker. Erstellt wurde dieses im Rahmen der Veranstaltung Ingenieurwissenschaften für Psychologen Human Factors WS2018/2019 von Ulrike Schäfer und Jenny Iseev.
 
-Im folgenden werder alle wichtigen Notwendigkeiten und Bedingungen erläutert.
+Im Folgenden werder alle wichtigen Notwendigkeiten und Bedingungen erläutert.
 
 ## Notwendigkeiten
 
