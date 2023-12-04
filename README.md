@@ -38,7 +38,7 @@ Maus (falls benötigt zum starten des Scriptes; keine Verwendung InGame)
 
 ## Installing
 
-Wie bereits erwähnt sollten Noobs und beispielsweise Geany als Interpreteur bereits installiert sein.
+Wie bereits erwähnt, sollten Noobs und beispielsweise Geany als Interpreteur bereits installiert sein.
 Wichtig ist zudem, dass mit Python 3.0+ gearbeitet wird, dieses sollte sowohl installiert als auch im Interpreteur ausgewählt sein.
 ```
 sudo apt-get install python3
